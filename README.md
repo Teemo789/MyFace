@@ -13,12 +13,8 @@ project/
      ├─ hashing.py       # Hachage/validation bcrypt
      └─ database.py      # Lecture/écriture JSON
 ```
-
 ## Utilisation
-1. Installez les dépendances (Python 3.10) :
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 2. Inscription :
    ```bash
    cd project
