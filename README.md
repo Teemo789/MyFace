@@ -13,12 +13,8 @@ project/
      ├─ hashing.py       # Hachage/validation bcrypt
      └─ database.py      # Lecture/écriture JSON
 ```
-
 ## Utilisation
-1. Installez les dépendances :
-   ```bash
-   pip install opencv-python mediapipe face_recognition bcrypt
-   ```
+
 2. Inscription :
    ```bash
    cd project
